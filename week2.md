@@ -1,24 +1,24 @@
-## Week 2 – Sprint 1
+# Week 2 – Sprint 1
 
-### Goals
-- Start working on live camera streaming prototype
-- Implement a basic user interface for viewing the camera feed
+## Goals
+- Start live streaming prototype
+- Research streaming technologies
 
-### Completed
-- Prepared development environment
-- Designed simple layout for live view
-- Added placeholder video feed to simulate camera
+## Completed
+- Researched WebRTC and streaming basics
+- Created initial project structure
+- Organized project folders
 
-### Tasks in Progress
-- Connect live camera feed (if available)
-- Implement start/stop streaming buttons
-- Adjust layout for multiple cameras
+## Work in Progress
+- Testing camera input
+- Exploring backend options
 
-### Next Steps (Week 3)
-- Improve video streaming functionality
-- Begin work on video recording (DVR) feature
+## Challenges
+- Understanding real-time streaming
+- Choosing the right tools
 
----
+## Next Steps
+- Implement basic streaming
+- Start motion detection
 
-## Notes
-This week focused on creating a basic prototype for the live streaming feature to show that the system can display video from cameras. The interface is still simple and will be improved in the upcoming weeks.
+
