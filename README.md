@@ -20,6 +20,13 @@ SafeNest is a smart home security system designed to monitor homes using cameras
 - Alert system
 - User interface
 
+  
+- ## Project Structure
+
+- frontend/ – user interface  
+- backend/ – server logic  
+- docs/ – documentation  
+
 ---
 
 ## Technologies
