@@ -1,69 +1,34 @@
-
 # SafeNest – Smart Home Security System
 
 ## Team Members
-- Elisa  
-- Blerta  
-- Iza  
-- Katerina  
+- Elisa
+- Katerina
+- Isadora
+- Blerta
 
----
+## Course
+SWE 101 – Introduction to Software Engineering
+
+## Semester
+Spring 2026
 
 ## Project Description
-SafeNest is a smart home security system designed to monitor homes using cameras, motion detection, and real-time alerts.
+SafeNest is a smart home security system designed to provide homeowners with real-time remote monitoring, motion detection alerts, and secure video recording features. The system improves home safety by integrating IoT cameras with a mobile application.
 
----
+## Objectives
+- Provide real-time surveillance
+- Send instant motion alerts
+- Allow remote camera management
+- Store and review recorded footage
 
-## Features
-- Video streaming
-- Motion detection
-- Alert system
-- User interface
-
-  
-- ## Project Structure
-
-- frontend/ – user interface  
-- backend/ – server logic  
-- docs/ – documentation  
-
----
+## Repository Structure
+- docs/ → Final report documents (DOCX + PDF)
+- diagrams/ → UML diagrams (PNG)
+- mockups/ → UI design images
+- planning/ → Sprint planning and risk analysis
 
 ## Technologies
-(To be decided)
-- Frontend: TBD
-- Backend: TBD
-- Database: TBD
-
----
-
-## Development Methodology
-We are following an Agile approach with weekly sprints and continuous updates on GitHub.
-
----
-
-## Week 1 – Sprint 0
-### Goals
-- Set up project structure
-- Define initial plan
-
-### Completed
-- Created GitHub repository
-- Uploaded documentation
-- Defined backlog
-- Assigned roles
-
----
-
-## Week 2 – Sprint 1
-### Goals
-- Start live streaming prototype
-- Research technologies
-
-### Progress
-- Researched streaming basics
-- Started project structure
-
-### Next Steps
-- Implement basic streaming
-- Begin backend setup
+- Java (Backend)
+- Spring Boot (Framework)
+- MySQL (Database)
+- Git & GitHub (Version Control)
