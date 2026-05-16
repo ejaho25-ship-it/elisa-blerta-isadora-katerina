@@ -22,9 +22,8 @@ SafeNest is a smart home security system designed to provide homeowners with rea
 - Store and review recorded footage
 
 ## Repository Structure
-- docs/ → Final report documents (DOCX + PDF)
-- diagrams/ → UML diagrams (PNG)
-- mockups/ → UI design images
+- docs/ → Final report documents
+- diagrams/ → UML diagrams
 - planning/ → Sprint planning and risk analysis
 
 ## Technologies
